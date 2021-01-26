@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: cd66fee84b011cf44baf11d2f395da0a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Combo_0
+    21300002: Combo_1
+    21300004: Combo_2
+    21300006: Combo_3
+    21300008: Combo_4
+    21300010: Combo_5
+    21300012: Combo_6
+    21300014: Combo_7
+    21300016: Combo_8
+    21300018: Combo_9
+    21300020: Combo_10
+    21300022: Combo_11
+    21300024: Combo_12
+    21300026: Combo_13
+    21300028: Combo_14
+    21300030: Combo_15
+    21300032: Combo_16
+    21300034: Combo_17
+    21300036: Combo_18
+    21300038: Combo_19
+    21300040: Combo_20
+    21300042: Combo_21
+    21300044: Combo_22
+    21300046: Combo_23
+    21300048: Combo_24
+    21300050: Combo_25
+    21300052: Combo_26
+    21300054: Combo_27
+    21300056: Combo_28
+    21300058: Combo_29
+    21300060: Combo_30
+    21300062: Combo_31
+    21300064: Combo_32
+    21300066: Combo_33
+    21300068: Combo_34
+    21300070: Combo_35
+    21300072: Combo_36
+    21300074: Combo_37
+    21300076: Combo_38
+    21300078: Combo_39
+    21300080: Combo_40
+    21300082: Combo_41
+    21300084: Combo_42
+    21300086: Combo_43
+    21300088: Combo_44
+    21300090: Combo_45
+    21300092: Combo_46
+    21300094: Combo_47
+    21300096: Combo_48
+    21300098: Combo_49
+    21300100: Combo_50
+    21300102: Combo_51
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Combo_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 602
+        width: 214
+        height: 253
+      alignment: 9
+      pivot: {x: 0.6729647, y: 0.032181207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95faa5d66b71ea14ba0152e8218add04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 603
+        width: 248
+        height: 255
+      alignment: 9
+      pivot: {x: 0.7339234, y: 0.035773065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee959bed217edca4499e59419594d93b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 605
+        width: 310
+        height: 255
+      alignment: 9
+      pivot: {x: 0.785766, y: 0.026549814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaf46c4302d09f48aa9b658ab633c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_5
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 603
+        width: 229
+        height: 254
+      alignment: 9
+      pivot: {x: 0.71225095, y: 0.0339454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772bd86e06b94974ea7041301f4bc2c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_6
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 602
+        width: 214
+        height: 253
+      alignment: 9
+      pivot: {x: 0.67396104, y: 0.03408512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596930c7218db4844b0d3ea8f085722c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_7
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 605
+        width: 254
+        height: 255
+      alignment: 9
+      pivot: {x: 0.73456484, y: 0.024594774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017331de6bb35ef4faed1a71085c5646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_9
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 603
+        width: 299
+        height: 253
+      alignment: 9
+      pivot: {x: 0.7823797, y: 0.03098656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600e9c959e558034181d43e4fad8e9f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_11
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 601
+        width: 230
+        height: 257
+      alignment: 9
+      pivot: {x: 0.7102762, y: 0.027453708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf628524667668d4abaa5a53cf670f4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_13
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 599
+        width: 214
+        height: 253
+      alignment: 9
+      pivot: {x: 0.67029834, y: 0.027888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a8a548906958a489441bcea7e5a938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_14
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 597
+        width: 251
+        height: 254
+      alignment: 9
+      pivot: {x: 0.72202206, y: 0.033950925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aeeb0b403b30d43927cf9f72b036ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_27
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 322
+        width: 226
+        height: 256
+      alignment: 9
+      pivot: {x: 0.7106858, y: 0.031926274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b375b1155169586429489a3bdfa42271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_29
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 329
+        width: 204
+        height: 257
+      alignment: 9
+      pivot: {x: 0.7049812, y: 0.026019856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67251731072675a47b2681d08405762e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_31
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 318
+        width: 180
+        height: 268
+      alignment: 9
+      pivot: {x: 0.6697727, y: 0.06931077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5df3cc294af114285f5d8c351786d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_33
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 332
+        width: 246
+        height: 256
+      alignment: 9
+      pivot: {x: 0.74628824, y: 0.031926274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac57c267aae0374a9bc539eea920fa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 320
+        width: 309
+        height: 255
+      alignment: 9
+      pivot: {x: 0.78599346, y: 0.032051597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a083e90e885b1945a95c469d114a611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_36
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 322
+        width: 230
+        height: 253
+      alignment: 9
+      pivot: {x: 0.69956505, y: 0.026431238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f2808a9a279514c818b347b9731dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_37
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 324
+        width: 213
+        height: 249
+      alignment: 9
+      pivot: {x: 0.6720982, y: 0.020887872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a02080568a24d042ac986b548d27ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_39
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 324
+        width: 251
+        height: 253
+      alignment: 9
+      pivot: {x: 0.72766113, y: 0.017620826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30019f417aa119847adefb6438b30b3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_40
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 322
+        width: 296
+        height: 258
+      alignment: 9
+      pivot: {x: 0.7791047, y: 0.028798895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f779d8b155e4847bd2d741b017fe4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_41
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 323
+        width: 218
+        height: 254
+      alignment: 9
+      pivot: {x: 0.71029353, y: 0.03217766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1ff6d87c3f906439db481462dce1e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 23
+        width: 296
+        height: 234
+      alignment: 9
+      pivot: {x: 0.78412515, y: 0.038103282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa1116eaed030044971764fe36e9ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_47
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 20
+        width: 296
+        height: 234
+      alignment: 9
+      pivot: {x: 0.78412503, y: 0.034927905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22817b3e371d0e1499a5ef27bc41d174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_48
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 24
+        width: 233
+        height: 239
+      alignment: 9
+      pivot: {x: 0.7289444, y: 0.031088322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13c4ea08aae9084c9af0e645cbda65f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_50
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 29
+        width: 232
+        height: 235
+      alignment: 9
+      pivot: {x: 0.7245731, y: 0.03794098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339ce08f9963bff49bc4894180d1d799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -208,6 +208,212 @@ TextureImporter:
     21300406: Download74834_203
     21300408: Download74834_204
     21300410: Download74834_205
+    21300412: PlayerSprite_0
+    21300414: PlayerSprite_1
+    21300416: PlayerSprite_2
+    21300418: PlayerSprite_3
+    21300420: PlayerSprite_4
+    21300422: PlayerSprite_5
+    21300424: PlayerSprite_6
+    21300426: PlayerSprite_7
+    21300428: PlayerSprite_8
+    21300430: PlayerSprite_9
+    21300432: PlayerSprite_10
+    21300434: PlayerSprite_11
+    21300436: PlayerSprite_12
+    21300438: PlayerSprite_13
+    21300440: PlayerSprite_14
+    21300442: PlayerSprite_15
+    21300444: PlayerSprite_16
+    21300446: PlayerSprite_17
+    21300448: PlayerSprite_18
+    21300450: PlayerSprite_19
+    21300452: PlayerSprite_20
+    21300454: PlayerSprite_21
+    21300456: PlayerSprite_22
+    21300458: PlayerSprite_23
+    21300460: PlayerSprite_24
+    21300462: PlayerSprite_25
+    21300464: PlayerSprite_26
+    21300466: PlayerSprite_27
+    21300468: PlayerSprite_28
+    21300470: PlayerSprite_29
+    21300472: PlayerSprite_30
+    21300474: PlayerSprite_31
+    21300476: PlayerSprite_32
+    21300478: PlayerSprite_33
+    21300480: PlayerSprite_34
+    21300482: PlayerSprite_35
+    21300484: PlayerSprite_36
+    21300486: PlayerSprite_37
+    21300488: PlayerSprite_38
+    21300490: PlayerSprite_39
+    21300492: PlayerSprite_40
+    21300494: PlayerSprite_41
+    21300496: PlayerSprite_42
+    21300498: PlayerSprite_43
+    21300500: PlayerSprite_44
+    21300502: PlayerSprite_45
+    21300504: PlayerSprite_46
+    21300506: PlayerSprite_47
+    21300508: PlayerSprite_48
+    21300510: PlayerSprite_49
+    21300512: PlayerSprite_50
+    21300514: PlayerSprite_51
+    21300516: PlayerSprite_52
+    21300518: PlayerSprite_53
+    21300520: PlayerSprite_54
+    21300522: PlayerSprite_55
+    21300524: PlayerSprite_56
+    21300526: PlayerSprite_57
+    21300528: PlayerSprite_58
+    21300530: PlayerSprite_59
+    21300532: PlayerSprite_60
+    21300534: PlayerSprite_61
+    21300536: PlayerSprite_62
+    21300538: PlayerSprite_63
+    21300540: PlayerSprite_64
+    21300542: PlayerSprite_65
+    21300544: PlayerSprite_66
+    21300546: PlayerSprite_67
+    21300548: PlayerSprite_68
+    21300550: PlayerSprite_69
+    21300552: PlayerSprite_70
+    21300554: PlayerSprite_71
+    21300556: PlayerSprite_72
+    21300558: PlayerSprite_73
+    21300560: PlayerSprite_74
+    21300562: PlayerSprite_75
+    21300564: PlayerSprite_76
+    21300566: PlayerSprite_77
+    21300568: PlayerSprite_78
+    21300570: PlayerSprite_79
+    21300572: PlayerSprite_80
+    21300574: PlayerSprite_81
+    21300576: PlayerSprite_82
+    21300578: PlayerSprite_83
+    21300580: PlayerSprite_84
+    21300582: PlayerSprite_85
+    21300584: PlayerSprite_86
+    21300586: PlayerSprite_87
+    21300588: PlayerSprite_88
+    21300590: PlayerSprite_89
+    21300592: PlayerSprite_90
+    21300594: PlayerSprite_91
+    21300596: PlayerSprite_92
+    21300598: PlayerSprite_93
+    21300600: PlayerSprite_94
+    21300602: PlayerSprite_95
+    21300604: PlayerSprite_96
+    21300606: PlayerSprite_97
+    21300608: PlayerSprite_98
+    21300610: PlayerSprite_99
+    21300612: PlayerSprite_100
+    21300614: PlayerSprite_101
+    21300616: PlayerSprite_102
+    21300618: PlayerSprite_103
+    21300620: PlayerSprite_104
+    21300622: PlayerSprite_105
+    21300624: PlayerSprite_106
+    21300626: PlayerSprite_107
+    21300628: PlayerSprite_108
+    21300630: PlayerSprite_109
+    21300632: PlayerSprite_110
+    21300634: PlayerSprite_111
+    21300636: PlayerSprite_112
+    21300638: PlayerSprite_113
+    21300640: PlayerSprite_114
+    21300642: PlayerSprite_115
+    21300644: PlayerSprite_116
+    21300646: PlayerSprite_117
+    21300648: PlayerSprite_118
+    21300650: PlayerSprite_119
+    21300652: PlayerSprite_120
+    21300654: PlayerSprite_121
+    21300656: PlayerSprite_122
+    21300658: PlayerSprite_123
+    21300660: PlayerSprite_124
+    21300662: PlayerSprite_125
+    21300664: PlayerSprite_126
+    21300666: PlayerSprite_127
+    21300668: PlayerSprite_128
+    21300670: PlayerSprite_129
+    21300672: PlayerSprite_130
+    21300674: PlayerSprite_131
+    21300676: PlayerSprite_132
+    21300678: PlayerSprite_133
+    21300680: PlayerSprite_134
+    21300682: PlayerSprite_135
+    21300684: PlayerSprite_136
+    21300686: PlayerSprite_137
+    21300688: PlayerSprite_138
+    21300690: PlayerSprite_139
+    21300692: PlayerSprite_140
+    21300694: PlayerSprite_141
+    21300696: PlayerSprite_142
+    21300698: PlayerSprite_143
+    21300700: PlayerSprite_144
+    21300702: PlayerSprite_145
+    21300704: PlayerSprite_146
+    21300706: PlayerSprite_147
+    21300708: PlayerSprite_148
+    21300710: PlayerSprite_149
+    21300712: PlayerSprite_150
+    21300714: PlayerSprite_151
+    21300716: PlayerSprite_152
+    21300718: PlayerSprite_153
+    21300720: PlayerSprite_154
+    21300722: PlayerSprite_155
+    21300724: PlayerSprite_156
+    21300726: PlayerSprite_157
+    21300728: PlayerSprite_158
+    21300730: PlayerSprite_159
+    21300732: PlayerSprite_160
+    21300734: PlayerSprite_161
+    21300736: PlayerSprite_162
+    21300738: PlayerSprite_163
+    21300740: PlayerSprite_164
+    21300742: PlayerSprite_165
+    21300744: PlayerSprite_166
+    21300746: PlayerSprite_167
+    21300748: PlayerSprite_168
+    21300750: PlayerSprite_169
+    21300752: PlayerSprite_170
+    21300754: PlayerSprite_171
+    21300756: PlayerSprite_172
+    21300758: PlayerSprite_173
+    21300760: PlayerSprite_174
+    21300762: PlayerSprite_175
+    21300764: PlayerSprite_176
+    21300766: PlayerSprite_177
+    21300768: PlayerSprite_178
+    21300770: PlayerSprite_179
+    21300772: PlayerSprite_180
+    21300774: PlayerSprite_181
+    21300776: PlayerSprite_182
+    21300778: PlayerSprite_183
+    21300780: PlayerSprite_184
+    21300782: PlayerSprite_185
+    21300784: PlayerSprite_186
+    21300786: PlayerSprite_187
+    21300788: PlayerSprite_188
+    21300790: PlayerSprite_189
+    21300792: PlayerSprite_190
+    21300794: PlayerSprite_191
+    21300796: PlayerSprite_192
+    21300798: PlayerSprite_193
+    21300800: PlayerSprite_194
+    21300802: PlayerSprite_195
+    21300804: PlayerSprite_196
+    21300806: PlayerSprite_197
+    21300808: PlayerSprite_198
+    21300810: PlayerSprite_199
+    21300812: PlayerSprite_200
+    21300814: PlayerSprite_201
+    21300816: PlayerSprite_202
+    21300818: PlayerSprite_203
+    21300820: PlayerSprite_204
+    21300822: PlayerSprite_205
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -312,4121 +518,4121 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Download74834_0
+      name: PlayerSprite_0
       rect:
         serializedVersion: 2
         x: 17
         y: 2050
         width: 30
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e640cfa64e107f547838aa5c922f7db8
+      spriteID: 4f1d35d8536a96d4f994f1ee43d38118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_1
+      name: PlayerSprite_1
       rect:
         serializedVersion: 2
         x: 81
         y: 2050
         width: 30
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19149a1f590815948ac458ed1e7afdaa
+      spriteID: 99ecc8bc1fdaf4b4ba0e1c0c0b730ed4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_2
+      name: PlayerSprite_2
       rect:
         serializedVersion: 2
         x: 146
         y: 2050
         width: 28
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98291597b3b5e414cb19f6ccae0f1f7f
+      spriteID: 9c672661b2c94ce4d864a61fffe8a16b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_3
+      name: PlayerSprite_3
       rect:
         serializedVersion: 2
         x: 206
         y: 2050
         width: 36
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9e4b96c19423f24cbadba246f1d02f4
+      spriteID: 3558cf1ad86982147b0bb91610ee6809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_4
+      name: PlayerSprite_4
       rect:
         serializedVersion: 2
         x: 263
         y: 2050
         width: 50
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09850abc01c267a4cb15ae29669799c6
+      spriteID: 34b3b2d4a4bbde9408636a76b03e721a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_5
+      name: PlayerSprite_5
       rect:
         serializedVersion: 2
         x: 328
         y: 2050
         width: 48
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab9fe62bebc822a488e8a6462409faa3
+      spriteID: ed4d34e01bb34d14b8bb2f4df3f066f2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_6
+      name: PlayerSprite_6
       rect:
         serializedVersion: 2
         x: 398
         y: 2050
         width: 36
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46946bc94bc8efb47995b05517b56641
+      spriteID: 1c8fbb3e6e778cc48a8421979cdd1733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_7
+      name: PlayerSprite_7
       rect:
         serializedVersion: 2
         x: 21
         y: 1985
         width: 22
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.849209, y: 0.03693331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a758d831a80acf4993e5ac028e4e098
+      spriteID: 6d19d5b9fed9d2449803cdc5693c8a9f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_8
+      name: PlayerSprite_8
       rect:
         serializedVersion: 2
         x: 85
         y: 1985
         width: 23
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.8026246, y: 0.03357403}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52a5e997eaba1c942bee3a72c8bdaef7
+      spriteID: 5e08966315505e14ba9d48cc04fd2460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_9
+      name: PlayerSprite_9
       rect:
         serializedVersion: 2
         x: 149
         y: 1985
         width: 22
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.84127116, y: 0.040290244}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddf01c8ee5665fb43a37a0b0ec1f069d
+      spriteID: c1a69d6592e21014082cdc139e65ea3f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_10
+      name: PlayerSprite_10
       rect:
         serializedVersion: 2
         x: 212
         y: 1985
         width: 26
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.7783919, y: 0.03693331}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f171c8b18dbb0b24fbeaf09d2257706d
+      spriteID: c66fb84435af0904abc3f32e021a4cfe
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_11
+      name: PlayerSprite_11
       rect:
         serializedVersion: 2
         x: 274
         y: 1985
         width: 33
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.6772535, y: 0.04700646}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b24c3504f0e7ae46ac631069f7fe836
+      spriteID: 96ee10719097b5849ae8e031618d957d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_12
+      name: PlayerSprite_12
       rect:
         serializedVersion: 2
         x: 338
         y: 1985
         width: 33
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.65079755, y: 0.043647178}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3373d74db87ba9543b0e3bf8aa497ab5
+      spriteID: ede1a65407a1fb5469cee7cc850b371d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_13
+      name: PlayerSprite_13
       rect:
         serializedVersion: 2
         x: 404
         y: 1985
         width: 28
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d6b95bfa618dd1428fa173d6b2504cf
+      spriteID: 8a046289aae6c5e4c96e28e2cb233653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_14
+      name: PlayerSprite_14
       rect:
         serializedVersion: 2
         x: 17
         y: 1920
         width: 30
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f29596ac10274b44b6a0a34bfd1146b
+      spriteID: 3a263823ea4487a4dbde881d6cad6698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_15
+      name: PlayerSprite_15
       rect:
         serializedVersion: 2
         x: 81
         y: 1920
         width: 30
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3307190f25c4c8448b59e3d8a1fa3af3
+      spriteID: aef6a7d8cb31a0f458bfdd91e7dd6dad
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_16
+      name: PlayerSprite_16
       rect:
         serializedVersion: 2
         x: 146
         y: 1920
         width: 28
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d074e4d0cf10ba84fb884b36e26d48e0
+      spriteID: eb62db3f3dee00e49adac6bbed8806e0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_17
+      name: PlayerSprite_17
       rect:
         serializedVersion: 2
         x: 206
         y: 1920
         width: 36
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29d03f93b97a3224381c48195e154810
+      spriteID: 8ec1f71362db8164b9ec942f50619ab7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_18
+      name: PlayerSprite_18
       rect:
         serializedVersion: 2
         x: 263
         y: 1920
         width: 50
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecdc9afa6536711479e9ba4f7366ac2e
+      spriteID: 586e9e257b0209843890dc1d15e48d3d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_19
+      name: PlayerSprite_19
       rect:
         serializedVersion: 2
         x: 328
         y: 1920
         width: 48
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4470bd98cdb28241bb72f5769a9d2d7
+      spriteID: 937e6742ae53ff543b77dfb5070517a9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_20
+      name: PlayerSprite_20
       rect:
         serializedVersion: 2
         x: 399
         y: 1920
         width: 34
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37eceba7ac63c84498991206de03c9bf
+      spriteID: 229baed46a53a9847a5fb03127218a49
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_21
+      name: PlayerSprite_21
       rect:
         serializedVersion: 2
         x: 21
         y: 1857
         width: 22
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91dedbaa7eeb7994580f8521c8f1cc47
+      spriteID: 3e9197651f5a26e4aa00e4b678a3d708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_22
+      name: PlayerSprite_22
       rect:
         serializedVersion: 2
         x: 84
         y: 1857
         width: 23
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6876eb2d4b12504da5abd6133f7eb5f
+      spriteID: e69553e83f51ce14c930448a048c19e9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_23
+      name: PlayerSprite_23
       rect:
         serializedVersion: 2
         x: 149
         y: 1857
         width: 22
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 722f445bb4da85f4ead31b2db8f26dac
+      spriteID: 34eb34aed01870d4f89e9bdb42a125aa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_24
+      name: PlayerSprite_24
       rect:
         serializedVersion: 2
         x: 210
         y: 1857
         width: 26
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1533bbbbbbaa4a143b21b76981c9a481
+      spriteID: b2ac5a2998371ac468da5864d1c46da0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_25
+      name: PlayerSprite_25
       rect:
         serializedVersion: 2
         x: 269
         y: 1857
         width: 33
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbec51842b1940c43823322326628f21
+      spriteID: 41112c129f485b8418ef84711b991748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_26
+      name: PlayerSprite_26
       rect:
         serializedVersion: 2
         x: 333
         y: 1857
         width: 33
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b40cb8322b231dd409b6b8c654092ba9
+      spriteID: 4adfb4ad0e208cc4f87d08efefeb8f87
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_27
+      name: PlayerSprite_27
       rect:
         serializedVersion: 2
         x: 400
         y: 1857
         width: 28
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c956439b96d57b45b2bb1c69344b92d
+      spriteID: b523aa53d93a4794db0aea86ff3ba8d6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_28
+      name: PlayerSprite_28
       rect:
         serializedVersion: 2
         x: 17
         y: 1794
         width: 30
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8c427d461a495342a5f6f3658803a32
+      spriteID: d79ef063336152347a183b9da8035c46
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_29
+      name: PlayerSprite_29
       rect:
         serializedVersion: 2
         x: 84
         y: 1792
         width: 26
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edb535396ef62d1458b1057231282265
+      spriteID: 27fc7d41b4b61e5429ba2065c00b20fc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_30
+      name: PlayerSprite_30
       rect:
         serializedVersion: 2
         x: 150
         y: 1792
         width: 22
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63f65718e34ab5e49aee80e518f9b0cc
+      spriteID: 3d296a297b54b954496f13ff714ead4a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_31
+      name: PlayerSprite_31
       rect:
         serializedVersion: 2
         x: 214
         y: 1792
         width: 22
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 543ec152f6d9674419d2ac44833a9dff
+      spriteID: 1f24b74b3b746d2469e738d1e747b600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_32
+      name: PlayerSprite_32
       rect:
         serializedVersion: 2
         x: 278
         y: 1792
         width: 23
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29cb55f893ae7d345a1be5d1ff3e9279
+      spriteID: 120e2075850315a48917488e69c6dd7e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_33
+      name: PlayerSprite_33
       rect:
         serializedVersion: 2
         x: 342
         y: 1792
         width: 23
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a82b210ca40c1254bb8761ffda9d7f70
+      spriteID: 2f1d0f41865e96b43a56635361bbaa24
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_34
+      name: PlayerSprite_34
       rect:
         serializedVersion: 2
         x: 406
         y: 1792
         width: 23
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbd80acca6c92a7429384320cf0be230
+      spriteID: ec8edf6d9c28a05498e40b435596ea31
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_35
+      name: PlayerSprite_35
       rect:
         serializedVersion: 2
         x: 470
         y: 1792
         width: 22
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7538497671fbe1448648a5213811bdc
+      spriteID: 10ee5f33f206749438982e61749fb401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_36
+      name: PlayerSprite_36
       rect:
         serializedVersion: 2
         x: 21
         y: 1729
         width: 22
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cf712afd24ea454fb1356d15184118f
+      spriteID: 82faa282e8c97164ba59efca462b235b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_37
+      name: PlayerSprite_37
       rect:
         serializedVersion: 2
         x: 83
         y: 1729
         width: 25
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b589e29e3d715b4db523e5b64103b34
+      spriteID: b03d6cdf69455474dbf37c1f18fefc8c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_38
+      name: PlayerSprite_38
       rect:
         serializedVersion: 2
         x: 147
         y: 1729
         width: 27
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ac9099951f06e24a89c9be840c35a86
+      spriteID: e7078b7a1627482489f488cef49a88c2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_39
+      name: PlayerSprite_39
       rect:
         serializedVersion: 2
         x: 213
         y: 1728
         width: 26
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea6d7773aef4747468a19f4d4cdc5397
+      spriteID: 703b1f4d8b4e6e74d87418ca534bbeaa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_40
+      name: PlayerSprite_40
       rect:
         serializedVersion: 2
         x: 271
         y: 1728
         width: 27
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7d8148e819293b43abd5fc104b1bd93
+      spriteID: 3021c81c7a3f4484b9ae374555e28626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_41
+      name: PlayerSprite_41
       rect:
         serializedVersion: 2
         x: 332
         y: 1728
         width: 30
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 226fec742e6ba364d92eed695df73f16
+      spriteID: c92889f413f7fd3428b9b7c1dcde2bf3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_42
+      name: PlayerSprite_42
       rect:
         serializedVersion: 2
         x: 399
         y: 1728
         width: 27
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45e9026dd4b05c847b41c3be8d87ece2
+      spriteID: 82bdfd432a1e3a74ca3315a02c1722f7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_43
+      name: PlayerSprite_43
       rect:
         serializedVersion: 2
         x: 469
         y: 1728
         width: 26
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2262e86058a622f4d8ee3d2347255c33
+      spriteID: 52f9df210e715ca42b62aed4ca52d3b5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_44
+      name: PlayerSprite_44
       rect:
         serializedVersion: 2
         x: 17
         y: 1664
         width: 30
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13acea538fcc5c243866324842b36668
+      spriteID: d9369158236eaf54eb13983b99802f72
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_45
+      name: PlayerSprite_45
       rect:
         serializedVersion: 2
         x: 83
         y: 1665
         width: 25
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 498b5204eeff9e246a4fd24ba7de6f7a
+      spriteID: 20019780bfaa2264e929755d762841fa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_46
+      name: PlayerSprite_46
       rect:
         serializedVersion: 2
         x: 148
         y: 1665
         width: 23
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9907eaa4519f77478e2f118f50220a4
+      spriteID: 73274fedcca82624681e66acbc7ca4bb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_47
+      name: PlayerSprite_47
       rect:
         serializedVersion: 2
         x: 210
         y: 1665
         width: 25
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecbc911c4b9cbb74b90f820deaf8e588
+      spriteID: 01939a84e6685244380d4151ead8e4d5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_48
+      name: PlayerSprite_48
       rect:
         serializedVersion: 2
         x: 277
         y: 1665
         width: 22
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81572afd77307b84b9c98e6c20d8aa69
+      spriteID: a4db93d349858f545a69d9d6aae62ef9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_49
+      name: PlayerSprite_49
       rect:
         serializedVersion: 2
         x: 341
         y: 1665
         width: 22
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac53d47b63c17ff4fa12df32c53b540c
+      spriteID: 9348770de58b9d440b719680b0f2057e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_50
+      name: PlayerSprite_50
       rect:
         serializedVersion: 2
         x: 405
         y: 1665
         width: 22
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42ccd5cc7a1849a489df3d1845dd3a21
+      spriteID: 72b74b22112aca04893e885630c6e59c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_51
+      name: PlayerSprite_51
       rect:
         serializedVersion: 2
         x: 466
         y: 1665
         width: 25
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd5f497a2ecbc7042beb6637d7832cdd
+      spriteID: 34ba3466400f2f64d9bfcfffdeef1b09
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_52
+      name: PlayerSprite_52
       rect:
         serializedVersion: 2
         x: 21
         y: 1601
         width: 22
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 717e74ac258a1164c94352ffe6f8cf8e
+      spriteID: e926c557f64092c4399302dffb73d048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_53
+      name: PlayerSprite_53
       rect:
         serializedVersion: 2
         x: 84
         y: 1601
         width: 25
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3daa3bb583749c4a8d29ddc6a18f90d
+      spriteID: 4fa219b59ca4fd74fa0d0af7d2aee430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_54
+      name: PlayerSprite_54
       rect:
         serializedVersion: 2
         x: 146
         y: 1601
         width: 27
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4430968294902c44ca774135e769d91d
+      spriteID: 421a8f00185da0047bc6d84f5c061cdf
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_55
+      name: PlayerSprite_55
       rect:
         serializedVersion: 2
         x: 209
         y: 1600
         width: 26
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 524bf75a5a1f9f74b9d3508bb60194ac
+      spriteID: 38af4d6660c61594fbb3d7e567383a39
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_56
+      name: PlayerSprite_56
       rect:
         serializedVersion: 2
         x: 278
         y: 1600
         width: 27
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2358cb743bc2834eaec001bb8787c08
+      spriteID: 2b31fc74f9c3f774aad2b36c6589fd07
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_57
+      name: PlayerSprite_57
       rect:
         serializedVersion: 2
         x: 342
         y: 1600
         width: 30
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e18d88bbacc2f44aabcd2899c809b6d
+      spriteID: 283395ec148b3344db34b0b1750788dc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_58
+      name: PlayerSprite_58
       rect:
         serializedVersion: 2
         x: 406
         y: 1600
         width: 27
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4453ffd6851a9e64cb90f722bfee163b
+      spriteID: 06fdd7ca9e1126c44a4a88ef6485fd23
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_59
+      name: PlayerSprite_59
       rect:
         serializedVersion: 2
         x: 465
         y: 1600
         width: 26
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53bb78b3f55060a40a0edc3d5507d263
+      spriteID: 0f9f126d77be2244699e53c8c727263c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_60
+      name: PlayerSprite_60
       rect:
         serializedVersion: 2
         x: 8
         y: 1539
         width: 39
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e173ea42a51fde647bbc1aaa325d0dc9
+      spriteID: 3a2fb55dde661c74a91c8a2fc201627b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_61
+      name: PlayerSprite_61
       rect:
         serializedVersion: 2
         x: 81
         y: 1539
         width: 35
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f281c43312ae87c4fbdb4813f38d6239
+      spriteID: 5ab29cef337f24c479facd5583168285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_62
+      name: PlayerSprite_62
       rect:
         serializedVersion: 2
         x: 145
         y: 1538
         width: 36
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5e630d0f41cab146a82bbcde8580bf0
+      spriteID: 085d97724ee9fd047bcdd6502d2c981f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_63
+      name: PlayerSprite_63
       rect:
         serializedVersion: 2
         x: 209
         y: 1537
         width: 32
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 093616a1c2871184d92775616d7f3894
+      spriteID: 5cc592cb19a994b4f9852a581ca3aab6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_64
+      name: PlayerSprite_64
       rect:
         serializedVersion: 2
         x: 273
         y: 1538
         width: 36
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b12c87e32fc225e46b24a768b2dc08e1
+      spriteID: 66e7404baa6a53c48b1c661ec0167819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_65
+      name: PlayerSprite_65
       rect:
         serializedVersion: 2
         x: 337
         y: 1539
         width: 36
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af882e55cf6bbe044997cd1f3eb93b05
+      spriteID: fedc6251249df964ba126cc90c81f43d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_66
+      name: PlayerSprite_66
       rect:
         serializedVersion: 2
         x: 401
         y: 1538
         width: 36
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdef978198410c744915dc182b928cb2
+      spriteID: 5959a384361e40a43b7c8b6497f1d09d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_67
+      name: PlayerSprite_67
       rect:
         serializedVersion: 2
         x: 466
         y: 1537
         width: 35
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dff0ea97ea36514282220295afd1e39
+      spriteID: 0833e1b575b2825458e140d6d0c11227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_68
+      name: PlayerSprite_68
       rect:
         serializedVersion: 2
         x: 529
         y: 1538
         width: 36
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aadc25b5eb5933b4eb7a16f1ae93f61f
+      spriteID: 668df9d2f76f3194092cb213ae1a1a88
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_69
+      name: PlayerSprite_69
       rect:
         serializedVersion: 2
         x: 7
         y: 1473
         width: 36
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bd2c905467dd6d4eb0081a6b8819485
+      spriteID: 2c6e46ca4862d784596ffb80c5a7b475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_70
+      name: PlayerSprite_70
       rect:
         serializedVersion: 2
         x: 64
         y: 1474
         width: 44
         height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06148ca2afc4e1946b8701dde693eb59
+      spriteID: 87b0cad41eb15a643a0e250721624a1f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_71
+      name: PlayerSprite_71
       rect:
         serializedVersion: 2
         x: 128
         y: 1475
         width: 43
         height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08baf66d5cda41f409264a7bde239b1d
+      spriteID: 3c583511ae683c9489de113bbe7723b9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_72
+      name: PlayerSprite_72
       rect:
         serializedVersion: 2
         x: 193
         y: 1475
         width: 44
         height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30e76a24b31ba7a4ba3c4b1297d6cc67
+      spriteID: 7ff4bf2f7de5fba4b82d409a7d6241e0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_73
+      name: PlayerSprite_73
       rect:
         serializedVersion: 2
         x: 262
         y: 1474
         width: 40
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bbc0639f9e41b247b2c099b62f0243f
+      spriteID: e1aa3aa60c3f8214dbce5cdbe8633bd5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_74
+      name: PlayerSprite_74
       rect:
         serializedVersion: 2
         x: 334
         y: 1474
         width: 34
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a189e2435e961b64b88e383d52648182
+      spriteID: 5e332cb53603514428fa78bcab2b439e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_75
+      name: PlayerSprite_75
       rect:
         serializedVersion: 2
         x: 392
         y: 1474
         width: 38
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46edf168673123b4ba3fd6ce3b1a259f
+      spriteID: 04273f9778d5160419f74b27958c19d9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_76
+      name: PlayerSprite_76
       rect:
         serializedVersion: 2
         x: 450
         y: 1474
         width: 43
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7dc5372e239969147a426a72869ed2c3
+      spriteID: 716c63b63cce94b4eb6d78e709c2f986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_77
+      name: PlayerSprite_77
       rect:
         serializedVersion: 2
         x: 512
         y: 1474
         width: 44
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3df62a0b02d19534eb68214ca31cf73e
+      spriteID: 35a818cb1e32d6e4e89d77e2af65443b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_78
+      name: PlayerSprite_78
       rect:
         serializedVersion: 2
         x: 14
         y: 1408
         width: 35
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd3e83e985fe19843b5365ae20eb3d13
+      spriteID: 4c8c9644797367f409babae6b415734c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_79
+      name: PlayerSprite_79
       rect:
         serializedVersion: 2
         x: 81
         y: 1408
         width: 30
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dd5b73cda10fd342bbca915677f9c31
+      spriteID: ee0e7bf31a29f9d4cbbab3ee33d8bb7f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_80
+      name: PlayerSprite_80
       rect:
         serializedVersion: 2
         x: 145
         y: 1409
         width: 30
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdcdabd5d6efce049a365256dc8d6b48
+      spriteID: a6f68c4f292b8b0469d2d79491e22ecd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_81
+      name: PlayerSprite_81
       rect:
         serializedVersion: 2
         x: 210
         y: 1408
         width: 30
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b1d8fc78b1c7b74593b26ac4c23420e
+      spriteID: dc50324cccc8fab41b6c3bbdc1e5fbdd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_82
+      name: PlayerSprite_82
       rect:
         serializedVersion: 2
         x: 272
         y: 1408
         width: 31
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8e9fc05cbc594a479417556f4bef775
+      spriteID: 390fe5e7703f181469b05aec0a2327ba
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_83
+      name: PlayerSprite_83
       rect:
         serializedVersion: 2
         x: 337
         y: 1408
         width: 30
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 186e415a0d362c949a371820a6c36159
+      spriteID: a9804d13c1fd0b94da1ad37f350beb0a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_84
+      name: PlayerSprite_84
       rect:
         serializedVersion: 2
         x: 401
         y: 1409
         width: 30
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f4c536864f562c4c8aa3da1e4059504
+      spriteID: c7c21b5f18b130145ad240a05a9188eb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_85
+      name: PlayerSprite_85
       rect:
         serializedVersion: 2
         x: 465
         y: 1409
         width: 29
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e8763f502dc0d7439b9ac2c55f560f7
+      spriteID: ce4a369a496c67d4090a077d50208544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_86
+      name: PlayerSprite_86
       rect:
         serializedVersion: 2
         x: 529
         y: 1408
         width: 30
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ba787f0da34f634083db7389120cd86
+      spriteID: 4696f8ca12b738541962bae93280b307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_87
+      name: PlayerSprite_87
       rect:
         serializedVersion: 2
         x: 21
         y: 1345
         width: 36
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bdf0fe930537b245ad2c538d847c61f
+      spriteID: 51eb5bfa9df524548b0b638e4a0f0bbc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_88
+      name: PlayerSprite_88
       rect:
         serializedVersion: 2
         x: 84
         y: 1346
         width: 44
         height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13f3042ee2c0e1746ba90dfad9c72dd0
+      spriteID: f396ed6f235c8174c9d0f9dc39c78e8c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_89
+      name: PlayerSprite_89
       rect:
         serializedVersion: 2
         x: 149
         y: 1347
         width: 43
         height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e647eae246bbb81468274597ae34eec1
+      spriteID: 01709cd2a19e93042a9650f13c7badbf
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_90
+      name: PlayerSprite_90
       rect:
         serializedVersion: 2
         x: 211
         y: 1347
         width: 44
         height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b283be8463c61824eb5b067afe052be9
+      spriteID: 0c8d4d4f559fab84faf01070bc8299f2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_91
+      name: PlayerSprite_91
       rect:
         serializedVersion: 2
         x: 274
         y: 1346
         width: 40
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5de8b166ee84c84994980a6f244566d
+      spriteID: 68866529f02acd4458b8f3ce52e482e2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_92
+      name: PlayerSprite_92
       rect:
         serializedVersion: 2
         x: 336
         y: 1346
         width: 34
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81b162831d87d6c42ba80200da8f49a9
+      spriteID: b4e627230b5b2ce47be4d270796b97d6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_93
+      name: PlayerSprite_93
       rect:
         serializedVersion: 2
         x: 402
         y: 1346
         width: 38
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 157f4147af206e34fa4acd1781f16868
+      spriteID: 28d6b4da3d27a674cb3871d32b0da7d3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_94
+      name: PlayerSprite_94
       rect:
         serializedVersion: 2
         x: 467
         y: 1346
         width: 43
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb0d1193f8eec184a99ff6d1d63c78b2
+      spriteID: 131dbbe117f8c9240aba43355978835a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_95
+      name: PlayerSprite_95
       rect:
         serializedVersion: 2
         x: 532
         y: 1346
         width: 44
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36a1f917a6870c54a924768e2a6c9f83
+      spriteID: 598d841b4da375643b4dc0a759618186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_96
+      name: PlayerSprite_96
       rect:
         serializedVersion: 2
         x: 17
         y: 1282
         width: 30
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef861904b90364b48b97272e0a4d0935
+      spriteID: c81722bbbaf3631499e8fe1dde0e0295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_97
+      name: PlayerSprite_97
       rect:
         serializedVersion: 2
         x: 81
         y: 1281
         width: 29
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c80389e53dcda784ea96c61c6a4f6966
+      spriteID: 2f53d7d0a0eb8354991892a9f9e55702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_98
+      name: PlayerSprite_98
       rect:
         serializedVersion: 2
         x: 145
         y: 1281
         width: 28
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bf0dc11eab603249bef31bebd4e9c9d
+      spriteID: b0e0fa65c372a1649823ba3ec2f5b60b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_99
+      name: PlayerSprite_99
       rect:
         serializedVersion: 2
         x: 210
         y: 1281
         width: 29
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54fb304aa00ce5747bc7c2ea488eb763
+      spriteID: 959c0967636276c498e96fb2af760fe7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_100
+      name: PlayerSprite_100
       rect:
         serializedVersion: 2
         x: 274
         y: 1281
         width: 36
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16d8bc2dfff9a8b4aa392f894d232de3
+      spriteID: 81af8e7cb5ad60648a1576fd8f5ddd18
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_101
+      name: PlayerSprite_101
       rect:
         serializedVersion: 2
         x: 338
         y: 1281
         width: 39
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64ce20ce4f5d0ad4d86e8ee7b6cb3bd2
+      spriteID: 13e9997c0bd69964e9421fb81e98110f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_102
+      name: PlayerSprite_102
       rect:
         serializedVersion: 2
         x: 21
         y: 1217
         width: 22
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c40ebf5c53c8ddd4dbdca3743c941984
+      spriteID: 156c8a37f1913f542a8061dfa84f369a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_103
+      name: PlayerSprite_103
       rect:
         serializedVersion: 2
         x: 81
         y: 1216
         width: 25
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37e918aa881f3314e96970497db4624b
+      spriteID: b831b0d1facaeea41b2127865647a2af
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_104
+      name: PlayerSprite_104
       rect:
         serializedVersion: 2
         x: 147
         y: 1216
         width: 25
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e60bee7d5e1c47849ac664782149eea9
+      spriteID: 31e0be6e35cfa3843a4e61d62e0d476e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_105
+      name: PlayerSprite_105
       rect:
         serializedVersion: 2
         x: 203
         y: 1216
         width: 34
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fb6fe6e386974f42ac0082cc171aa96
+      spriteID: c4c54c38e18c21c4ebabffa8d50304ee
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_106
+      name: PlayerSprite_106
       rect:
         serializedVersion: 2
         x: 264
         y: 1216
         width: 36
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 026bfa4ab2fbff447be8f1aac6f81415
+      spriteID: 36a899e2d2f9ebd4ab99a2d582bd7d72
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_107
+      name: PlayerSprite_107
       rect:
         serializedVersion: 2
         x: 331
         y: 1216
         width: 33
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9113ae43a5d15d448d07291439ef1f4
+      spriteID: 9d6f1cc9145d4a84ca5c92e55aceee2f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_108
+      name: PlayerSprite_108
       rect:
         serializedVersion: 2
         x: 17
         y: 1152
         width: 30
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31f38bff09b9fdd4f8fbd49932453965
+      spriteID: c9bbea6e0197912458dd4dcefdd6b3aa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_109
+      name: PlayerSprite_109
       rect:
         serializedVersion: 2
         x: 82
         y: 1152
         width: 28
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1632014b07933641955a41db65c06cd
+      spriteID: 082eaa0481dbd9647a3c56f20ce2724d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_110
+      name: PlayerSprite_110
       rect:
         serializedVersion: 2
         x: 146
         y: 1152
         width: 28
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38185916aae315643aaed6ed26c5975f
+      spriteID: c10e36341ec654a41bcf52e688348614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_111
+      name: PlayerSprite_111
       rect:
         serializedVersion: 2
         x: 212
         y: 1153
         width: 27
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b23ffa26c5707640a14be6bfb61f0bc
+      spriteID: 36b0fb99e6c54df48a11c52187b68dfa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_112
+      name: PlayerSprite_112
       rect:
         serializedVersion: 2
         x: 276
         y: 1153
         width: 35
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f3a814b6362db9418a6b8828bd12c4a
+      spriteID: a6fd50c2499faa24985ab7cfc3cacdbd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_113
+      name: PlayerSprite_113
       rect:
         serializedVersion: 2
         x: 339
         y: 1153
         width: 39
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b779784fc52a0ef4f80c8e433c0f4189
+      spriteID: 56803ff3ccd7f794ab2808e66e245e86
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_114
+      name: PlayerSprite_114
       rect:
         serializedVersion: 2
         x: 21
         y: 1089
         width: 22
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f798a4599eb688d4f826bf9e11b39ec3
+      spriteID: ec068db009580124e9acd0ac361b0f8b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_115
+      name: PlayerSprite_115
       rect:
         serializedVersion: 2
         x: 86
         y: 1088
         width: 25
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6e8d033bd237184c9e70182c38d59a0
+      spriteID: 51a4983fa1e66a84e975ddc0f196da04
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_116
+      name: PlayerSprite_116
       rect:
         serializedVersion: 2
         x: 148
         y: 1088
         width: 25
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99ea4d4763df0b74b96da2dd9abc72a3
+      spriteID: 46e3ce02a1829ad41b40434a2be7ca24
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_117
+      name: PlayerSprite_117
       rect:
         serializedVersion: 2
         x: 211
         y: 1088
         width: 34
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47ba064409484e049815fd095e09d839
+      spriteID: 8879263260835c743a1ba70084d24018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_118
+      name: PlayerSprite_118
       rect:
         serializedVersion: 2
         x: 276
         y: 1088
         width: 36
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c16b85918b6c1ef40b6bcb13128172bb
+      spriteID: 1b277aaa5a01b514189fb9b293a26ccb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_119
+      name: PlayerSprite_119
       rect:
         serializedVersion: 2
         x: 340
         y: 1088
         width: 33
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2d8ce187e5ded64ea02241e6346289d
+      spriteID: a766d43151a6b1740b74ba81b44a1dd3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_120
+      name: PlayerSprite_120
       rect:
         serializedVersion: 2
         x: 16
         y: 1026
         width: 30
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 092880f2938b24d4081c9488c8644743
+      spriteID: a5cb28b163a9a204ab0eda223a24a316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_121
+      name: PlayerSprite_121
       rect:
         serializedVersion: 2
         x: 83
         y: 1024
         width: 26
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af168a9b86c7a434a846485dee70d5ab
+      spriteID: 3705e02b2015d434d8415501f134272a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_122
+      name: PlayerSprite_122
       rect:
         serializedVersion: 2
         x: 149
         y: 1024
         width: 22
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2d48b0e58f54aa4bb7b9aff11dc9fd7
+      spriteID: a143ece1aa4661a449e0f36806fa7277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_123
+      name: PlayerSprite_123
       rect:
         serializedVersion: 2
         x: 212
         y: 1024
         width: 22
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5bf0c6808e2cf249ad880fff854a378
+      spriteID: 934f8f6e69f47244bb2c275654e30014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_124
+      name: PlayerSprite_124
       rect:
         serializedVersion: 2
         x: 276
         y: 1024
         width: 27
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9b76d895a921f24e85ab9d8b98256b2
+      spriteID: 345a47604a874894e8cae0832550b4b2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_125
+      name: PlayerSprite_125
       rect:
         serializedVersion: 2
         x: 340
         y: 1024
         width: 25
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d750fcf343076114b880f6f8dbbc5714
+      spriteID: 1123d4c3199bd624e8ab9f5976ec0b1e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_126
+      name: PlayerSprite_126
       rect:
         serializedVersion: 2
         x: 404
         y: 1024
         width: 26
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c47eb1df7d165e4abcf00d7e5a3bdfb
+      spriteID: 0b83c95f18b58cd448c0edef344020ad
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_127
+      name: PlayerSprite_127
       rect:
         serializedVersion: 2
         x: 468
         y: 1024
         width: 27
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e145f7e52b297a47a6312700343badb
+      spriteID: cf79aa16674b9854c963174604d1564b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_128
+      name: PlayerSprite_128
       rect:
         serializedVersion: 2
         x: 532
         y: 1024
         width: 28
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdfdc7e7cb3766b489fa0c868ff03345
+      spriteID: d40967d4eade1624db1c73433e546ac2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_129
+      name: PlayerSprite_129
       rect:
         serializedVersion: 2
         x: 596
         y: 1024
         width: 27
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: faeb53b44934d8945984271b43d25eb4
+      spriteID: 681f6230fe74d014a8dcd05aaff7ce1f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_130
+      name: PlayerSprite_130
       rect:
         serializedVersion: 2
         x: 660
         y: 1024
         width: 22
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d694fb02d332784bb9fd859528a9beb
+      spriteID: 805adb4c6e5aa6d4c899cbd64dca86cc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_131
+      name: PlayerSprite_131
       rect:
         serializedVersion: 2
         x: 724
         y: 1024
         width: 22
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 443ea8b3572721d45abdc2b11cc74149
+      spriteID: 7722ec78ab0a66a45b57c763d0115bad
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_132
+      name: PlayerSprite_132
       rect:
         serializedVersion: 2
         x: 788
         y: 1024
         width: 22
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7fc0f1f8eb386948af733d07ade56be
+      spriteID: 65c136c11f1013a4599d64056bcd3c0d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_133
+      name: PlayerSprite_133
       rect:
         serializedVersion: 2
         x: 22
         y: 961
         width: 22
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.84986615, y: 0.038447455}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf0a1da3f598dcd47a6df748e78a5928
+      spriteID: e91fdac9c603c7546b30fa4a4c32e728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_134
+      name: PlayerSprite_134
       rect:
         serializedVersion: 2
         x: 84
         y: 961
         width: 25
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.82963896, y: 0.041790303}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5333d2efdbc13104c9398b0b5453f4c9
+      spriteID: e7cf6ac0410febe44b09a309754f0158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_135
+      name: PlayerSprite_135
       rect:
         serializedVersion: 2
         x: 143
         y: 961
         width: 32
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.807148, y: 0.038447455}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5a049c88af00964ca3aa71aeb48b5aa
+      spriteID: e9ce44232399cd7469623ce025976288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_136
+      name: PlayerSprite_136
       rect:
         serializedVersion: 2
         x: 205
         y: 960
         width: 35
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.8609301, y: 0.044281583}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8697ad284d84ba94aac40cc3f01580ae
+      spriteID: 30b7bde9a6be73a4ba33d51de3ec7752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_137
+      name: PlayerSprite_137
       rect:
         serializedVersion: 2
         x: 269
         y: 960
         width: 35
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.8509966, y: 0.049201246}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4268414d17c7e440bfd5d67483e7fb4
+      spriteID: 377cdfdcf0825ff4f8465e64027cb4ab
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_138
+      name: PlayerSprite_138
       rect:
         serializedVersion: 2
         x: 332
         y: 960
         width: 32
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.95654106, y: 0.04592147}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cceae27fda25694f8c19cc871635622
+      spriteID: a490d72d8bffa7342b4b99aefbba66a0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_139
+      name: PlayerSprite_139
       rect:
         serializedVersion: 2
         x: 396
         y: 960
         width: 34
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.9028563, y: 0.049201246}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 975aec258f32b684584ec9807789902b
+      spriteID: 127676d5d9ed57f4abbc73a3bf2185cd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_140
+      name: PlayerSprite_140
       rect:
         serializedVersion: 2
         x: 461
         y: 960
         width: 36
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.8223987, y: 0.044282734}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37189be4b9d55f24e8524249f38201a1
+      spriteID: 60f7db8296d41214385ef9a837bced7c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_141
+      name: PlayerSprite_141
       rect:
         serializedVersion: 2
         x: 525
         y: 960
         width: 38
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.78488964, y: 0.045809764}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a97ae3ca2789a144ca457421c7c8324e
+      spriteID: 418a2b09ac518fc458c84398c30becc6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_142
+      name: PlayerSprite_142
       rect:
         serializedVersion: 2
         x: 589
         y: 960
         width: 35
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.85200894, y: 0.044282734}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4b28ee3a4fcc3c47a1cc6253f253dc8
+      spriteID: 6ef7eefd9aac0ee4fb0704437c2b5da7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_143
+      name: PlayerSprite_143
       rect:
         serializedVersion: 2
         x: 653
         y: 960
         width: 34
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b40de1a59fafc34d9392447900916ce
+      spriteID: 69c55b3102165dc4e859dac5e66d7949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_144
+      name: PlayerSprite_144
       rect:
         serializedVersion: 2
         x: 717
         y: 960
         width: 30
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0e021530579fa242a231f54a0cf494c
+      spriteID: dfd01a5421eea7745959bd8f7362fdf5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_145
+      name: PlayerSprite_145
       rect:
         serializedVersion: 2
         x: 781
         y: 960
         width: 34
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1381f91a69cd24545805985ec50cb511
+      spriteID: 889d61c10061d194e88ca3897ba0d6e6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_146
+      name: PlayerSprite_146
       rect:
         serializedVersion: 2
         x: 16
         y: 896
         width: 30
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81d8a6a6cb068ac4a902959517f69908
+      spriteID: ecf785c0b38c0db42a8661d182f802af
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_147
+      name: PlayerSprite_147
       rect:
         serializedVersion: 2
         x: 82
         y: 897
         width: 26
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d137dfbdeb60104c8ddedde2494fc7d
+      spriteID: 6bc4a507a3f2d7443b0d5fd0b7547860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_148
+      name: PlayerSprite_148
       rect:
         serializedVersion: 2
         x: 146
         y: 898
         width: 25
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7e218d23824efc48a491335919844d8
+      spriteID: 16c809429d323b440b7ec7f0c10c9aa7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_149
+      name: PlayerSprite_149
       rect:
         serializedVersion: 2
         x: 210
         y: 896
         width: 24
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52351bfd2d014b3438cfd22f7b1cd157
+      spriteID: 8d5438773d3832d4d9cb7908ea099f54
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_150
+      name: PlayerSprite_150
       rect:
         serializedVersion: 2
         x: 275
         y: 896
         width: 23
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 603a10e4bdc26254394dabc3a9c25913
+      spriteID: 14da1422a32840547b31c65432df84a4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_151
+      name: PlayerSprite_151
       rect:
         serializedVersion: 2
         x: 339
         y: 896
         width: 23
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f4175f8d86a3fe4c8d3fd276c4268ec
+      spriteID: 01c699c49babd54488b6870b65ae8db9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_152
+      name: PlayerSprite_152
       rect:
         serializedVersion: 2
         x: 403
         y: 896
         width: 23
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5f2177fcc65ab34d99e9c846c1bdf60
+      spriteID: cf8c75ac5e1478f4181bb3a21fb01c15
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_153
+      name: PlayerSprite_153
       rect:
         serializedVersion: 2
         x: 466
         y: 896
         width: 24
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fffb78612142c174a863c590175f3cea
+      spriteID: b588aa9d920b5a047947230176432944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_154
+      name: PlayerSprite_154
       rect:
         serializedVersion: 2
         x: 530
         y: 896
         width: 24
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac58571d89ee0a84d944cef071d62b05
+      spriteID: 84bc5c9193d99e84da0e4043d13a93a4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_155
+      name: PlayerSprite_155
       rect:
         serializedVersion: 2
         x: 595
         y: 896
         width: 23
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8dcba5daf2ed39041b4b8573b7a39945
+      spriteID: 89ba1d690407a0b4fb64267ef66b7fdb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_156
+      name: PlayerSprite_156
       rect:
         serializedVersion: 2
         x: 658
         y: 896
         width: 24
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b693aae3143619543869c1846f1bb1e7
+      spriteID: eef3fbc13c9b6514f99162b0c0048eea
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_157
+      name: PlayerSprite_157
       rect:
         serializedVersion: 2
         x: 724
         y: 896
         width: 22
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: feb2b83b55f8bd540a5acd4224cd9625
+      spriteID: c22abf14545edd5458d37017c4f06bb6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_158
+      name: PlayerSprite_158
       rect:
         serializedVersion: 2
         x: 786
         y: 896
         width: 24
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7455efd541c8e8d4bad4550aa74bcdd5
+      spriteID: 9742f5214735c5d4092de18c63f7c08e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_159
+      name: PlayerSprite_159
       rect:
         serializedVersion: 2
         x: 20
         y: 833
         width: 22
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85a129d2b6183d74bbf81de1cb04c6be
+      spriteID: 16f2511844470be44bd45fbac60c0ddb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_160
+      name: PlayerSprite_160
       rect:
         serializedVersion: 2
         x: 83
         y: 833
         width: 25
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 087b170b4bf9f154e9f431ecd5027417
+      spriteID: 707315980805d97498d00923e8db672d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_161
+      name: PlayerSprite_161
       rect:
         serializedVersion: 2
         x: 145
         y: 833
         width: 32
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae0a1b8d4f19fb446a28a1d58dc3e8f8
+      spriteID: c92f980143a75354c8016ced3780ef7e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_162
+      name: PlayerSprite_162
       rect:
         serializedVersion: 2
         x: 208
         y: 832
         width: 35
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14644de7676f6b8469febc1069581ee4
+      spriteID: b37d8862967cc5a4fbca796141491a09
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_163
+      name: PlayerSprite_163
       rect:
         serializedVersion: 2
         x: 272
         y: 832
         width: 35
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43356b0f9830e2f4494f57c9daa67286
+      spriteID: 471424414eb637c44a14ae5a7621454c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_164
+      name: PlayerSprite_164
       rect:
         serializedVersion: 2
         x: 340
         y: 832
         width: 32
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75afa5d83f28c484281a70ba3d28d950
+      spriteID: 90e68c5156aeb564bbad507eb1ecbe3b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_165
+      name: PlayerSprite_165
       rect:
         serializedVersion: 2
         x: 402
         y: 832
         width: 34
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 461063e933bfacc4d916b0646fa0a81c
+      spriteID: a0df22bc8dd51e447833af025fdd22e7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_166
+      name: PlayerSprite_166
       rect:
         serializedVersion: 2
         x: 463
         y: 832
         width: 36
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45c04db9a4f19044cb72b2da41047b5c
+      spriteID: 514c0643f5379704687dbe81472f77fc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_167
+      name: PlayerSprite_167
       rect:
         serializedVersion: 2
         x: 525
         y: 832
         width: 38
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba9846c436f15544b8f3c6667979271f
+      spriteID: 727ac83128ee1e745b14066059cee86e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_168
+      name: PlayerSprite_168
       rect:
         serializedVersion: 2
         x: 592
         y: 832
         width: 35
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cafa6b6e495a1c4686492ba5aa5b93c
+      spriteID: f047f0c5d5c88f641a78b788fca26523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_169
+      name: PlayerSprite_169
       rect:
         serializedVersion: 2
         x: 657
         y: 832
         width: 34
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5907d382442eb5d409103b86dc2ce646
+      spriteID: 4c41f1abc03859949a9ceea695eb35dc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_170
+      name: PlayerSprite_170
       rect:
         serializedVersion: 2
         x: 725
         y: 832
         width: 30
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28d933bb4dae6284ab54bd9c3b305ab0
+      spriteID: 96e9f726c27391948a5d5e69b2b3caa4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_171
+      name: PlayerSprite_171
       rect:
         serializedVersion: 2
         x: 785
         y: 832
         width: 34
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 998f3bf87514a0349b262be988950dff
+      spriteID: b85f28082a4a6f1429ab40d37a218f5a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_172
+      name: PlayerSprite_172
       rect:
         serializedVersion: 2
         x: 17
         y: 768
         width: 30
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39db738c827964443a7eed773add6705
+      spriteID: b3100ad7df6821b43bf62760618ebb69
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_173
+      name: PlayerSprite_173
       rect:
         serializedVersion: 2
         x: 82
         y: 768
         width: 31
         height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e627dcc271f6004082aea61a8f29625
+      spriteID: e966b1d05b3bb2843aa8f70520a6b043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_174
+      name: PlayerSprite_174
       rect:
         serializedVersion: 2
         x: 147
         y: 768
         width: 30
         height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec3467ccb74a29a4fae3570450512c2c
+      spriteID: f21282600c76876429d087b740e7b599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_175
+      name: PlayerSprite_175
       rect:
         serializedVersion: 2
         x: 211
         y: 768
         width: 30
         height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20deacee6a3ee1e4a99f35d77a81d1ba
+      spriteID: 7491c2df861abe74fbfc5c06b28111f0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_176
+      name: PlayerSprite_176
       rect:
         serializedVersion: 2
         x: 275
         y: 768
         width: 33
         height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05967b3566823d344afd24287b1844e3
+      spriteID: 97621990fa5e74c4e8fd5947420ef30a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_177
+      name: PlayerSprite_177
       rect:
         serializedVersion: 2
         x: 338
         y: 768
         width: 40
         height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c4f2f5f99bdd1e49b0d167550360e40
+      spriteID: 4eb8e257c101edc479b572ebeee13aef
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_178
+      name: PlayerSprite_178
       rect:
         serializedVersion: 2
         x: 430
         y: 768
         width: 14
         height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ae7b526f09f7944cb82fc227c042384
+      spriteID: b9300629c982f1d419c6487bb375ebaa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_179
+      name: PlayerSprite_179
       rect:
         serializedVersion: 2
         x: 493
         y: 769
         width: 19
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ea8659a7c6ac694dbda804a6ce67080
+      spriteID: a330d3752f586424480ec5168a18b419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_180
+      name: PlayerSprite_180
       rect:
         serializedVersion: 2
         x: 557
         y: 768
         width: 19
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 176b532131b9f664996303ed7ae53ab4
+      spriteID: 085f92289731c644c94f0faeaf0bfebe
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_181
+      name: PlayerSprite_181
       rect:
         serializedVersion: 2
         x: 621
         y: 768
         width: 19
         height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f73ae930503578c4d9707ab79da57be5
+      spriteID: 88a7a4833ff66f24f9db7b3c72e74511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_182
+      name: PlayerSprite_182
       rect:
         serializedVersion: 2
         x: 72
         y: 642
         width: 39
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36dd2996fed85e44689ce3eefe5aecfe
+      spriteID: 7c4e4facba722a741a8036c483e70f6d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_183
+      name: PlayerSprite_183
       rect:
         serializedVersion: 2
         x: 255
         y: 641
         width: 47
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b5ea3acad9146645af2320e3f3f200a
+      spriteID: 1c370e827c7d7874786431a7adebfaab
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_184
+      name: PlayerSprite_184
       rect:
         serializedVersion: 2
         x: 448
         y: 641
         width: 45
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8cc6bab653954c4890bf08d96d3f409
+      spriteID: a305722b946c7e840917b097f935b7e2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_185
+      name: PlayerSprite_185
       rect:
         serializedVersion: 2
         x: 629
         y: 641
         width: 58
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d35a83dddc118db45a7864b960a0d748
+      spriteID: b16c96231dd5cb54c9e376b910ac6ac4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_186
+      name: PlayerSprite_186
       rect:
         serializedVersion: 2
         x: 821
         y: 641
         width: 81
         height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.70402396, y: 0.012933076}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da3e6f76dcd87a64a8705016c02425ff
+      spriteID: 6fc33aa064c0abb4ba3b3826c642ce11
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_187
+      name: PlayerSprite_187
       rect:
         serializedVersion: 2
         x: 1042
         y: 641
         width: 77
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.3622936, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22503a63ea3738a4497eebcade54d84d
+      spriteID: c98667ecc90420f499762df000452eee
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_188
+      name: PlayerSprite_188
       rect:
         serializedVersion: 2
         x: 52
         y: 448
         width: 55
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe4cccade9ce9b14081d17724e42c256
+      spriteID: d16ebac5c6d9d01418a3d57c2218a257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_189
+      name: PlayerSprite_189
       rect:
         serializedVersion: 2
         x: 267
         y: 448
         width: 31
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.90471625, y: 0.0000011967678}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9eed2045847b1e946bf0b9b2a99baab9
+      spriteID: 55271bfbb7488554ab1cfd37d9a3b969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_190
+      name: PlayerSprite_190
       rect:
         serializedVersion: 2
         x: 466
         y: 448
         width: 36
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.58974713, y: 0.009290012}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45f5f493681f7ef479df3fe2cd9d1395
+      spriteID: 678c67716f6c11d469956d13ca9af23b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_191
+      name: PlayerSprite_191
       rect:
         serializedVersion: 2
         x: 646
         y: 448
         width: 57
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.6156573, y: 0.0046455814}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7eec32d25e9b99040ac0685b04b30a61
+      spriteID: 16480a392261fc34fb87a239523c9b89
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_192
+      name: PlayerSprite_192
       rect:
         serializedVersion: 2
         x: 783
         y: 448
         width: 93
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.96559256, y: 0.0000011516067}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0220d060e9e36dc4c8bb3525a9253fb9
+      spriteID: b1bb2f81442f1204c8aecec858ebae1f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_193
+      name: PlayerSprite_193
       rect:
         serializedVersion: 2
         x: 977
         y: 448
         width: 91
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.9648357, y: 0.0000011516067}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f414dbea34db1749897f5dec25c8757
+      spriteID: c011369850941c144b79d938e51f5c85
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_194
+      name: PlayerSprite_194
       rect:
         serializedVersion: 2
         x: 72
         y: 255
         width: 39
         height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24c6406eea4967649b8d3c83d9167c67
+      spriteID: f84328033fde00047a45236e427310e6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_195
+      name: PlayerSprite_195
       rect:
         serializedVersion: 2
         x: 255
         y: 256
         width: 47
         height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 849808a9700ff904a8f5e965b8476e57
+      spriteID: f7b6949a84fe2ce47bee7760e8b4b381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_196
+      name: PlayerSprite_196
       rect:
         serializedVersion: 2
         x: 448
         y: 256
         width: 46
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ae13c7e025f6334782ae63b06a7ad21
+      spriteID: 40ae4e4211265954eb6477c86d51c02b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_197
+      name: PlayerSprite_197
       rect:
         serializedVersion: 2
         x: 632
         y: 257
         width: 55
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.9492354, y: 0.00000057580337}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9863dc67c1a29841a235a62ff6cd8ab
+      spriteID: a59fcfec8c28cbc47bf5544f73b939cc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_198
+      name: PlayerSprite_198
       rect:
         serializedVersion: 2
         x: 821
         y: 239
         width: 81
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.7113128, y: 0.25691053}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f6d7bfbeb4af554ba1ca9db454c0da5
+      spriteID: da7194e250e07d84f84898e91c6ee352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_199
+      name: PlayerSprite_199
       rect:
         serializedVersion: 2
         x: 1043
         y: 242
         width: 76
         height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.3433099, y: 0.22761513}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 079dd4dfe7f6eda48aa8a9fef017782b
+      spriteID: 5022aa5f4e4e45246a095cccaa38eb59
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_200
+      name: PlayerSprite_200
       rect:
         serializedVersion: 2
         x: 85
         y: 64
         width: 55
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e1c1bb3d1611ad41a2ef828349ca8ba
+      spriteID: 42383dfef3c3a3c42a0687930a43b348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_201
+      name: PlayerSprite_201
       rect:
         serializedVersion: 2
         x: 278
         y: 64
         width: 31
         height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf1aefa091c47a64fb9948d5cda264df
+      spriteID: a8599ba4e2802764e96b01b703b220d1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_202
+      name: PlayerSprite_202
       rect:
         serializedVersion: 2
         x: 458
         y: 64
         width: 36
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 758b29a214c6dc443a3cdc03bd6a53b8
+      spriteID: 0b6177a59be3c3a4893bff6848c4cfbd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_203
+      name: PlayerSprite_203
       rect:
         serializedVersion: 2
         x: 641
         y: 64
         width: 57
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.7699714, y: 0.05955822}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01d2961f4d3448a49b302374a018813b
+      spriteID: bd713e7bc5707944393ead3237cfd61c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_204
+      name: PlayerSprite_204
       rect:
         serializedVersion: 2
         x: 852
         y: 64
         width: 93
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.27418765, y: 0.05955822}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 889e803190b0bb34cad61dce9ebf74e0
+      spriteID: f0974de81aed1184ca4f2a85264de19d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Download74834_205
+      name: PlayerSprite_205
       rect:
         serializedVersion: 2
         x: 1044
         y: 64
         width: 91
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.28224936, y: 0.05039575}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbccf4a7068bf494eb60beacaf1459cc
+      spriteID: 14a65acf95f5bf341aa597a0d63e464a
       vertices: []
       indices: 
       edges: []
