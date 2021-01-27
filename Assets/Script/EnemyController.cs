@@ -9,11 +9,12 @@ public class EnemyController : MonoBehaviour {
 	public PlayerMotor thePlayer;
 	public BoxCollider2D myBox;
 	public bool moving;
-	private Animator anim;
+	public Animator anim;
+	public Animator animModel;
 	public float health=0;
 	private float maxHealth=0;
 	public float distance=1.5f;
-	private SpriteRenderer sprite;
+	public SpriteRenderer sprite;
 	public float healthColor;
 	public float playerRange;
 	public LayerMask playerLayer;
@@ -33,8 +34,8 @@ public class EnemyController : MonoBehaviour {
 		myBody = GetComponent<Rigidbody2D> ();
 		thePlayer = FindObjectOfType<PlayerMotor> ();
 		moving = true;
-		anim = GetComponent<Animator> ();
-		sprite = GetComponent<SpriteRenderer> ();
+		//anim = GetComponent<Animator> ();
+		//sprite = GetComponent<SpriteRenderer> ();
 		theLevel = FindObjectOfType<LevelManager> ();
 		drop = FindObjectOfType<DropItem> ();
 		shadow.SetActive (false);
@@ -74,6 +75,9 @@ public class EnemyController : MonoBehaviour {
 				moving = true;
 				anim.SetBool ("attack", false);
 				anim.SetBool ("moving", true);
+
+				animModel.SetBool("attack", false);
+				animModel.SetBool("moving", true);
 			}
 		
 			
@@ -83,6 +87,8 @@ public class EnemyController : MonoBehaviour {
 			if (moving == true) {
 				anim.SetBool ("moving", true);
 				anim.SetBool ("attack", false);
+				animModel.SetBool("moving", true);
+				animModel.SetBool("attack", false);
 				if (myBody.transform.position.x > thePlayer.transform.position.x) {
 					myBody.velocity = new Vector2 (-speed, myBody.velocity.y);
 					if (survivalMode == false) {
@@ -102,11 +108,15 @@ public class EnemyController : MonoBehaviour {
 				myBody.velocity = new Vector2 (0, myBody.velocity.y);
 				anim.SetBool ("moving", false);
 				anim.SetBool ("attack", true);
+				animModel.SetBool("moving", false);
+				animModel.SetBool("attack", true);
 			}
 
 			if (health <= 0) {
 				anim.SetBool ("moving", true);
 				anim.SetBool ("attack", false);
+				animModel.SetBool("moving", true);
+				animModel.SetBool("attack", false);
 				Instantiate (deathPrticle, myBody.transform.position, myBody.transform.rotation);
 				Destroy (gameObject);
 				if (mandatory == true) {
@@ -117,6 +127,7 @@ public class EnemyController : MonoBehaviour {
 
 		} else {
 			anim.SetBool ("moving", false);
+			animModel.SetBool("moving", false);
 		}
 	}
 

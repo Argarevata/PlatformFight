@@ -126,7 +126,7 @@ public class PlayerMotor : MonoBehaviour {
 		if (Input.GetKeyDown (KeyCode.K)&&grounded && energyManager.energy>=10 && doSkill==false && dead==false) {
 			//moveVelocity = 0;
 			anim.SetBool ("Skill1", true);
-			animNewChar.SetBool("Skill1", true);
+			animNewChar.SetBool("Skill2", true);
 			invulnerable = true;
 			energyManager.useEnergy (10);
 			Instantiate (skill1, skill1LaunchPoint.transform.position, skill1LaunchPoint.transform.rotation);
@@ -138,7 +138,7 @@ public class PlayerMotor : MonoBehaviour {
 		if (Input.GetKeyDown (KeyCode.L)&&grounded && energyManager.energy>=10 &&doSkill==false && dead==false) {
 			//moveVelocity=0;
 			anim.SetBool ("Skill2", true);
-			animNewChar.SetBool("Skill2", true);
+			animNewChar.SetBool("Skill1", true);
 			invulnerable = true;
 			energyManager.useEnergy (10);
 			Instantiate (skill2, myBody.transform.position, myBody.transform.rotation);
@@ -234,7 +234,7 @@ public class PlayerMotor : MonoBehaviour {
 		if (grounded && energyManager.energy>=10 && doSkill==false && dead==false) {
 			//moveVelocity = 0;
 			anim.SetBool ("Skill1", true);
-			animNewChar.SetBool("Skill1", true);
+			animNewChar.SetBool("Skill2", true);
 			invulnerable = true;
 			energyManager.useEnergy (10);
 			Instantiate (skill1, skill1LaunchPoint.transform.position, skill1LaunchPoint.transform.rotation);
@@ -248,7 +248,7 @@ public class PlayerMotor : MonoBehaviour {
 		if (grounded && energyManager.energy>=10 &&doSkill==false && dead==false) {
 			//moveVelocity=0;
 			anim.SetBool ("Skill2", true);
-			animNewChar.SetBool("Skill2", true);
+			animNewChar.SetBool("Skill1", true);
 			invulnerable = true;
 			energyManager.useEnergy (10);
 			Instantiate (skill2, myBody.transform.position, myBody.transform.rotation);

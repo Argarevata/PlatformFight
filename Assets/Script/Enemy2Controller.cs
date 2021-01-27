@@ -9,11 +9,12 @@ public class Enemy2Controller : MonoBehaviour {
 	public PlayerMotor thePlayer;
 	public BoxCollider2D myBox;
 	public bool moving;
-	private Animator anim;
+	public Animator anim;
+	public Animator animModel;
 	public float health=0;
 	private float maxHealth=0;
 	private float distance=7;
-	private SpriteRenderer sprite;
+	public SpriteRenderer sprite;
 	public float healthColor;
 	public float playerRange;
 	public LayerMask playerLayer;
@@ -37,8 +38,8 @@ public class Enemy2Controller : MonoBehaviour {
 		myBody = GetComponent<Rigidbody2D> ();
 		thePlayer = FindObjectOfType<PlayerMotor> ();
 		moving = true;
-		anim = GetComponent<Animator> ();
-		sprite = GetComponent<SpriteRenderer> ();
+		//anim = GetComponent<Animator> ();
+		//sprite = GetComponent<SpriteRenderer> ();
 		theLevel = FindObjectOfType<LevelManager> ();
 		drop = FindObjectOfType<DropItem> ();
 
@@ -80,6 +81,8 @@ public class Enemy2Controller : MonoBehaviour {
 				moving = true;
 				anim.SetBool ("attack", false);
 				anim.SetBool ("moving", true);
+				animModel.SetBool("attack", false);
+				animModel.SetBool("moving", true);
 			}
 
 
@@ -89,6 +92,8 @@ public class Enemy2Controller : MonoBehaviour {
 			if (moving == true) {
 				anim.SetBool ("moving", true);
 				anim.SetBool ("attack", false);
+				animModel.SetBool("moving", true);
+				animModel.SetBool("attack", false);
 				if (myBody.transform.position.x > thePlayer.transform.position.x) {
 					myBody.velocity = new Vector2 (-speed, myBody.velocity.y);
 					if (survivalMode == false) {
@@ -107,11 +112,14 @@ public class Enemy2Controller : MonoBehaviour {
 			} else {
 				myBody.velocity = new Vector2 (0, myBody.velocity.y);
 				anim.SetBool ("moving", false);
+				animModel.SetBool("moving", false);
 				if (shotCounter <= 2.5) {
 					anim.SetBool ("attack", false);
+					animModel.SetBool("attack", false);
 				}
 				if (shotCounter < 0) {
 					anim.SetBool ("attack", true);
+					animModel.SetBool("attack", true);
 					Instantiate (enemyBullet, launchPoint.transform.position, launchPoint.transform.rotation);
 					shotCounter = waitBetweenShots;
 				}
@@ -128,6 +136,7 @@ public class Enemy2Controller : MonoBehaviour {
 
 		} else {
 			anim.SetBool ("moving", false);
+			animModel.SetBool("moving", false);
 		}
 	}
 
