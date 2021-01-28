@@ -10,6 +10,7 @@ public class cameraController : MonoBehaviour {
 	public GameObject leftConstraint;
 	public GameObject rightConstraint;
 	public Animator anim;
+	public bool canMove;
 
 	// Use this for initialization
 	void Start () {
@@ -18,9 +19,16 @@ public class cameraController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-			if (freeze == false) {
-				if (thePlayer.transform.position.x >= leftConstraint.transform.position.x && thePlayer.transform.position.x <= rightConstraint.transform.position.x) {
-					transform.position = new Vector3 (thePlayer.transform.position.x, transform.position.y, -10);
+			if (freeze == false) 
+			{
+				if (thePlayer.transform.position.x >= leftConstraint.transform.position.x && thePlayer.transform.position.x <= rightConstraint.transform.position.x)
+				{
+					transform.position = new Vector3(thePlayer.transform.position.x, transform.position.y, -10);
+					canMove = true;
+				}
+				else
+				{
+					canMove = false;
 				}
 			}
 	}
