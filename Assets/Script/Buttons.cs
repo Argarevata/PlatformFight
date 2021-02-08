@@ -20,7 +20,6 @@ public class Buttons : MonoBehaviour {
 		} else {
 			letsRetry ();
 		}
-
 		player = FindObjectOfType<PlayerMotor> ();
 	}
 	
@@ -60,12 +59,12 @@ public class Buttons : MonoBehaviour {
 
 	public void map()
 	{
-		Application.LoadLevel ("Chapter1Map");
+		Application.LoadLevel ("Level Select");
 	}
 
 	public void retry()
 	{
-		Application.LoadLevel ("TryAgain");
+		Application.LoadLevel (levelName);
 	}
 
 	void letsRetry()

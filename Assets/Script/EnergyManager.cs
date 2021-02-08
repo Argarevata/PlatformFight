@@ -14,14 +14,24 @@ public class EnergyManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		PlayerPrefs.SetInt("MaxEnergy", 100);
+		PlayerPrefs.SetInt("MaxEnergy", 30);
 		maxEnergy = PlayerPrefs.GetInt ("MaxEnergy");
 		energy = maxEnergy;
 		dontAdd = false;
 		energyBar = GetComponent<Slider>();
 		energyBar.maxValue = maxEnergy;
 	}
-	
+
+	public void BoostEnergy()
+	{
+		PlayerPrefs.SetInt("MaxEnergy", 60);
+		maxEnergy = PlayerPrefs.GetInt("MaxEnergy");
+		energy = maxEnergy;
+		dontAdd = false;
+		energyBar = GetComponent<Slider>();
+		energyBar.maxValue = maxEnergy;
+	}
+
 	// Update is called once per frame
 	void Update () {
 

@@ -45,6 +45,7 @@ public class LevelManager : MonoBehaviour {
 	public int hitDamage;
 	public float Enemy1Health;
 	public float Enemy2Health;
+	public int playerAttack, playerSkill;
 
 	void Start () {
 		thePlayer = FindObjectOfType<PlayerMotor> ();

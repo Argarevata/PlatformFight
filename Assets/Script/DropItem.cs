@@ -33,10 +33,12 @@ public class DropItem : MonoBehaviour {
 				prize = money;
 			} else if (type > 12 && type <= 13) {
 				prize = potionBlue;
+				Instantiate(prize, x, y);
 			} else {
 				prize = potionRed;
+				Instantiate(prize, x, y);
 			}
-			Instantiate (prize, x, y);
+			
 		}
 		
 

@@ -13,6 +13,7 @@ public class PlayerHealth : MonoBehaviour {
 	public PlayerMotor thePlayer;
 	public GameObject blood;
 	public GameObject redScreen;
+	public AdmobScript theAdmob;
 
 	// Use this for initialization
 	void Start () {
@@ -21,6 +22,16 @@ public class PlayerHealth : MonoBehaviour {
 		currentHealth = maxHealth;
 		healthBar.maxValue = maxHealth;
 		thePlayer = FindObjectOfType<PlayerMotor> ();
+		theAdmob = FindObjectOfType<AdmobScript>();
+	}
+
+	public void BoostHealth()
+	{
+		PlayerPrefs.SetInt("MaxHealth", 200);
+		maxHealth = PlayerPrefs.GetInt("MaxHealth");
+		currentHealth = maxHealth;
+		healthBar.maxValue = maxHealth;
+		thePlayer = FindObjectOfType<PlayerMotor>();
 	}
 	
 	// Update is called once per frame
@@ -60,6 +71,10 @@ public class PlayerHealth : MonoBehaviour {
 		//redScreen.SetActive (true);
 		yield return new WaitForSeconds (1);
 		loseScreen.SetActive (true);
+		if (theAdmob != null)
+		{
+			theAdmob.ShowInterstitial();
+		}
 		Time.timeScale = 0;
 	}
 

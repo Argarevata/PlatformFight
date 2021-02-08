@@ -7,16 +7,16 @@ using UnityEngine.UI;
 
 public class Video : MonoBehaviour {
 
-    public MovieTexture movieClip;
+    //public MovieTexture movieClip;
     private AudioSource audio;
     public string levelToLoad;
 
 	// Use this for initialization
 	void Start () {
-        GetComponent<RawImage>().texture = movieClip as MovieTexture;
+       // GetComponent<RawImage>().texture = movieClip as MovieTexture;
         audio = GetComponent<AudioSource>();
-        audio.clip = movieClip.audioClip;
-        movieClip.Play();
+        //audio.clip = movieClip.audioClip;
+        //movieClip.Play();
         audio.Play();
         StartCoroutine("go");
 	}

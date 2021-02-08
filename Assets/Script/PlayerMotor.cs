@@ -33,16 +33,19 @@ public class PlayerMotor : MonoBehaviour {
 
 	public float punchCounter;
 	public float waitBetweenPunch;
-
+	public LevelManager theLevelManager;
+	public AdmobScript theAdmob;
 
 	void Start () {
+		theAdmob = FindObjectOfType<AdmobScript>();
+		theLevelManager = FindObjectOfType<LevelManager>();
 		PlayerPrefs.SetInt("Speed", 5);
-		PlayerPrefs.SetInt("Attack", 5);
-		PlayerPrefs.SetInt("Skill", 10);
+		PlayerPrefs.SetInt("Attack", theLevelManager.playerAttack);
+		PlayerPrefs.SetInt("Skill", theLevelManager.playerSkill);
 		myBody = GetComponent<Rigidbody2D> ();
 		//anim = GetComponentInChildren<Animator> ();
 		speed = PlayerPrefs.GetInt ("Speed");
-		Time.timeScale = 1;
+		//Time.timeScale = 1;
 		theHealth = FindObjectOfType<PlayerHealth> ();
 		energyManager = FindObjectOfType<EnergyManager> ();
 		Debug.Log ("ini level " + PlayerPrefs.GetInt ("stage"));
@@ -179,6 +182,10 @@ public class PlayerMotor : MonoBehaviour {
 	{
 		if (other.tag == "FinishBox") {
 			winScreen.SetActive (true);
+			if (theAdmob != null)
+			{
+				theAdmob.ShowInterstitial();
+			}
 			Time.timeScale = 0;
 		}
 	}

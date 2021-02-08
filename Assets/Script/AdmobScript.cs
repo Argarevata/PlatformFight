@@ -24,9 +24,33 @@ public class AdmobScript : MonoBehaviour
 
     public Text adStats;
 
+
+    public bool includePreparation;
+    /// <summary>
+    /// 0 = health
+    /// 1 = attack 
+    /// 2 = energy
+    /// </summary>
+    public int selectedPowerUp { get; set; }
+    public Booster theBooster;
+
     void Start()
     {
+        if (includePreparation)
+        {
+            theBooster = FindObjectOfType<Booster>();
+        }
         MobileAds.Initialize(App_ID);
+        RequestBanner();
+        RequestInterstitial();
+        StartCoroutine(AutoShowBanner());
+
+        rewardedAd = RewardBasedVideoAd.Instance;
+
+        rewardedAd.OnAdRewarded += HandleRewardBasedVideoRewarded;
+        rewardedAd.OnAdClosed += HandleRewardBasedVideoClosed;
+
+        RequestRewardVideoNew();
     }
 
     private void Update()
@@ -44,12 +68,14 @@ public class AdmobScript : MonoBehaviour
             //ShowInterstitial();
             ShowVideoRewardedAd();
         }
+
+
     }
 
     public void RequestBanner()
     {
         //AdSize adSize = AdSize.GetCurrentOrientationAnchoredAdaptiveBannerAdSizeWithWidth(AdSize.FullWidth);
-        AdSize adSize = new AdSize(728, 90);
+        AdSize adSize = new AdSize(320, 50);
         this.bannerView = new BannerView(BannerAdId, adSize, AdPosition.Bottom);
 
         // Called when an ad request has successfully loaded.
@@ -116,16 +142,37 @@ public class AdmobScript : MonoBehaviour
         }
     }
 
+    public void RequestRewardVideoNew()
+    {
+        AdRequest request = new AdRequest.Builder().Build();
+        rewardedAd.LoadAd(request, RewardedAdId);
+    }
+
+    public void ShowRewardVideoNew()
+    {
+        StopCoroutine(CloseStats());
+        if (rewardedAd.IsLoaded())
+        {
+            rewardedAd.Show();
+            RequestRewardVideoNew();
+        }
+        else
+        {
+            adStats.gameObject.SetActive(true);
+            StartCoroutine(CloseStats());
+        }
+    }
+
     // FOR EVENTS
     //============
     public void HandleOnAdLoaded(object sender, EventArgs args)
     {
-        adStats.text = "Ad Loaded";
+        // adStats.text = "Ad Loaded";
     }
 
     public void HandleOnAdFailedToLoad(object sender, AdFailedToLoadEventArgs args)
     {
-        adStats.text = "Ad Failed to Load";
+        //adStats.text = "Ad Failed to Load";
     }
 
     public void HandleOnAdOpened(object sender, EventArgs args)
@@ -141,5 +188,56 @@ public class AdmobScript : MonoBehaviour
     public void HandleOnAdLeavingApplication(object sender, EventArgs args)
     {
         MonoBehaviour.print("HandleAdLeavingApplication event received");
+    }
+
+    public void HandleRewardBasedVideoRewarded(object sender, EventArgs args)
+    {
+        if (includePreparation)
+        {
+            switch (selectedPowerUp)
+            {
+                case 0:
+                    {
+                        if (theBooster != null)
+                        {
+                            theBooster.BoostHealth();
+                        }
+                        break;
+                    }
+                case 1:
+                    {
+                        if (theBooster != null)
+                        {
+                            theBooster.BoostAttack();
+                        }
+                        break;
+                    }
+                case 2:
+                    {
+                        if (theBooster != null)
+                        {
+                            theBooster.BoostEnergy();
+                        }
+                        break;
+                    }
+            }
+        }
+    }
+
+    public void HandleRewardBasedVideoClosed(object sender, EventArgs args)
+    {
+        Debug.Log("NOT REWARDED");
+    }
+
+    public IEnumerator AutoShowBanner()
+    {
+        yield return new WaitForSecondsRealtime(10);
+        ShowBanner();
+    }
+
+    public IEnumerator CloseStats()
+    {
+        yield return new WaitForSecondsRealtime(2);
+        adStats.gameObject.SetActive(false);
     }
 }

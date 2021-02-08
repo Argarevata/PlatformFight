@@ -44,7 +44,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.028229713, y: -0.047048807}
+  m_Offset: {x: 7.92, y: -0.047048807}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -222,7 +222,8 @@ MonoBehaviour:
   myBody: {fileID: 50498760090101856}
   speed: 6
   jump: 20
-  anim: {fileID: 0}
+  anim: {fileID: 95637451703811362}
+  animNewChar: {fileID: 1008747619237869566}
   moveCount: 0
   grounded: 0
   dead: 0
@@ -230,7 +231,7 @@ MonoBehaviour:
   groundCheckRadius: 0.1
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 1024
+    m_Bits: 1280
   doSkill: 0
   theHealth: {fileID: 0}
   skill1: {fileID: 1790061206287532, guid: 50f762b460c867043a0d3a314eb7f3b8, type: 3}
@@ -242,7 +243,7 @@ MonoBehaviour:
   invulnerable: 0
   moneyCollected: 0
   jumpSFX: {fileID: 82557031064902950}
-  thisLevel: 0
+  thisLevel: 1
   punchCounter: 0
   waitBetweenPunch: 0.4
 --- !u!61 &61759697963654816
@@ -438,7 +439,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 2
   m_Sprite: {fileID: 21300002, guid: d497307aabc48a742bbe69b06153795f, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.35686275}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -535,7 +536,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_Sprite: {fileID: 21300550, guid: 7b281561083511345a94befea500f265, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
